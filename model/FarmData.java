@@ -7,9 +7,6 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
-import Controller.Cow;
-import Controller.Goat;
-
 public class FarmData {
     private List<Cow> cows;
     private List<Goat> goats;

@@ -1,4 +1,4 @@
-package Controller;
+package model;
 // Goat.java
 
 public class Goat {

@@ -1,4 +1,4 @@
-package Controller;
+package model;
 // Cow.java
 
 public class Cow {

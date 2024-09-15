@@ -3,7 +3,9 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.util.Random;
 
+import model.Cow;
 import model.FarmData;
+import model.Goat;
 import view.FarmView;
 
 public class FarmController {
