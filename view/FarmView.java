@@ -10,7 +10,7 @@ public class FarmView {
     private JTextArea infoArea;
 
     public FarmView() {
-        frame = new JFrame("Cow Milking Machine");
+        frame = new JFrame("Cow Strike");
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setSize(400, 300);
 
